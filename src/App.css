@@ -1,0 +1,19 @@
+body {
+  font-family: Arial, sans-serif;
+  text-align: center;
+  background-color: #282c34;
+  color: white;
+}
+
+h1 {
+  margin-top: 20px;
+}
+select {
+  margin: 10px;
+  padding: 8px;
+  font-size: 16px;
+}
+ul {
+  list-style: none;
+  padding: 0;
+}
